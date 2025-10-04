@@ -1,4 +1,11 @@
-Doing all sorts of projects. Focusing on Rust, Python, ML, robotics and hardware. 
+Focusing on studies
+
+Interests
+1. ACS implementation on hardware 
+2. Hardware engineering
+3. Rust for embedded
+4. VHDL/Verilog for FPGA
+
 
 Send an email at marios2132006@gmail.com for any inquiries
 
