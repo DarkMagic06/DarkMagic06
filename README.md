@@ -1,7 +1,8 @@
 Focusing on studies
 
-Interested in hardware design, both digital and analog
+Interested in IC design
 
+Currenty not working on any projects
 
 Send an email at marios2132006@gmail.com for any inquiries
 
