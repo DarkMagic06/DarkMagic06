@@ -1,10 +1,6 @@
 Focusing on studies
 
-Interests
-1. ACS implementation on hardware 
-2. Hardware engineering
-3. Rust for embedded
-4. VHDL/Verilog for FPGA
+Interested in hardware design, both digital and analog
 
 
 Send an email at marios2132006@gmail.com for any inquiries
