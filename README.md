@@ -1,6 +1,6 @@
-In awe of everything related to electronics mostly digital and mixed signal (Analog seems like black magic) 
+In awe of everything related to digital circuits.
 
-Currenty organising my local ACM's Hardware systems team. Also solving some ProjectEuler.net problems here and there
+Currenty organising my local ACM's Hardware Systems Branch. Done workshop 2/9 for this semester, see you next Sunday!
 
 Send an email at marios2132006@gmail.com for any inquiries
 
