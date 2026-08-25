@@ -1,6 +1,6 @@
-In awe of everything related to digital circuits.
+In awe of everything related to electronics.
 
-Currenty organising my local ACM's Hardware Systems Branch. Done workshop 3/9 for this semester, see you next Sunday!
+Currenty branch coordinator of my local ACM's Hardware Systems Branch.
 
 Send an email at marios2132006@gmail.com for any inquiries
 
