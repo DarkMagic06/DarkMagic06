@@ -1,4 +1,4 @@
-In awe of everything related to electronics.
+Giving my extra 1% every day
 
 Currenty branch coordinator of my local ACM's Hardware Systems Branch.
 
